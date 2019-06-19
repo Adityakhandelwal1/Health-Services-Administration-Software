@@ -1,1 +1,5 @@
 # Health-Services-Administration-Software
+
+The aim of the application is to computerize the Front OfficeWorkplace Management of Hospital and develop software package (Web Service Application) that is user friendly, simplistic, efficient and secure. The main function or work of the system is to register and store patient details and retrieve them as and once needed, and concurrently to control or manipulate these details meaningfully. The design has been made as simple as possible. The complete Web Service Based Application is a single page application to make the work process faster and efficient. On the top , i.e., header, the name of the hospital is displayed. On the left ,a menu is present for navigation. The Software Development Model used is Incremental Model.The main content is loaded in the main section as per menu selection.
+
+The Health Services Administration consists of various module. Users will access the different modules via the main interface as an independent module. This will include several modules with features such as Add, Update and Delete Operations, Backup Modules, Password change and Reset Module.
